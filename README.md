@@ -1,0 +1,2 @@
+# sinov
+"Sinab ko'rvoman"
